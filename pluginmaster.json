@@ -22,9 +22,9 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "Punchline": "自动副本",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/AutoDuty/AutoDuty/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/AutoDuty/AutoDuty/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/AutoDuty/AutoDuty/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/AutoDuty/AutoDuty/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/AutoDuty/AutoDuty/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/AutoDuty/AutoDuty/latest.zip"
   },
   {
     "Author": "NightmareXIV",
@@ -42,9 +42,9 @@
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
     "Punchline": "加速以太网旅行和世界切换的插件。",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/Lifestream/Lifestream/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/Lifestream/Lifestream/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/Lifestream/Lifestream/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Lifestream/Lifestream/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Lifestream/Lifestream/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Lifestream/Lifestream/latest.zip"
   },
   {
     "Author": "Liza Carvelli",
@@ -66,9 +66,9 @@
     "IconUrl": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/icons/Questionable.png",
     "Punchline": "自动任务助手插件。",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/Questionable/Questionable/Questionable-5.23.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/Questionable/Questionable/Questionable-5.23.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/Questionable/Questionable/Questionable-5.23.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Questionable/Questionable/Questionable-5.23.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Questionable/Questionable/Questionable-5.23.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Questionable/Questionable/Questionable-5.23.zip"
   },
   {
     "Author": "NightmareXIV",
@@ -90,9 +90,9 @@
     "IconUrl": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/icons/Splatoon.png",
     "Punchline": "重新定义 FFXIV 导航，提供无限精确的自定义标记。",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/Splatoon/Splatoon/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/Splatoon/Splatoon/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/Splatoon/Splatoon/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Splatoon/Splatoon/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Splatoon/Splatoon/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Splatoon/Splatoon/latest.zip"
   },
   {
     "Author": "NightmareXIV",
@@ -110,9 +110,9 @@
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/master/TextAdvance/images/icon.png",
     "Punchline": "任务速通辅助工具。自动跳过对话框并确认跳过动画",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/TextAdvance/TextAdvance/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/TextAdvance/TextAdvance/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/TextAdvance/TextAdvance/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/TextAdvance/TextAdvance/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/TextAdvance/TextAdvance/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/TextAdvance/TextAdvance/latest.zip"
   },
   {
     "Author": "The Combat Reborn Team",
@@ -135,9 +135,9 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "不再搞砸团队机制",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/bossmod/BossModReborn/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/bossmod/BossModReborn/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/bossmod/BossModReborn/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/bossmod/BossModReborn/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/bossmod/BossModReborn/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/bossmod/BossModReborn/latest.zip"
   },
   {
     "Author": "veyn",
@@ -155,8 +155,8 @@
     "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_navmesh/8dab2e675e51a03b1827d94e77616a8144892a72/icon2.png",
     "Punchline": "自动导航移动！",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/vnavmesh/vnavmesh/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/vnavmesh/vnavmesh/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/dalamudTW/master/plugins/vnavmesh/vnavmesh/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/vnavmesh/vnavmesh/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/vnavmesh/vnavmesh/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/vnavmesh/vnavmesh/latest.zip"
   }
 ]

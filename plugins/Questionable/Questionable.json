@@ -1,0 +1,21 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "Questionable",
+  "InternalName": "Questionable",
+  "AssemblyVersion": "5.23",
+  "Description": "一个自动任务助手插件，尽可能为您自动完成任务。使用 navmesh 自动行走至所有任务路径点，并尝试自动完成所有步骤（不包括副本、单人任务战斗和战斗）。\n\n并非所有任务都受支持，请查看 Discord 或 Git 仓库获取最新列表。\n\n必需插件：vnavmesh、TextAdvance、Lifestream",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/Questionable",
+  "Tags": [
+    "quests",
+    "msq"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/icons/Questionable.png",
+  "Punchline": "自动任务助手插件。",
+  "AcceptsFeedback": true
+}
