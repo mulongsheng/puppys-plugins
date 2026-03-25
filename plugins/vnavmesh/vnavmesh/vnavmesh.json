@@ -2,7 +2,7 @@
   "Author": "veyn",
   "Name": "vnavmesh",
   "InternalName": "vnavmesh",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "0.0.0.2",
   "Description": "自动导航移动工具，智能地带领角色在世界中穿行，巧妙地避开所有障碍物。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",

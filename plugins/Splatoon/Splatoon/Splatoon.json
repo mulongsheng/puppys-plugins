@@ -2,7 +2,7 @@
   "Author": "NightmareXIV",
   "Name": "Splatoon",
   "InternalName": "Splatoon",
-  "AssemblyVersion": "3.7.0.4",
+  "AssemblyVersion": "3.7.0.5",
   "Description": "Splatoon 是一个强大的辅助工具。它通过自定义标记系统革新了游戏体验，提供创建无限分组标记、标签和角色指示器的能力，具有精确的像素级精度。此功能使关键对象和事件更加直观，从而加快反应速度。请注意，插件不附带预设，玩家可以自由创建或导入现有预设。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/PunishXIV/Splatoon",
