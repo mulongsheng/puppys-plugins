@@ -2,7 +2,7 @@
   "Author": "Antigravity",
   "Name": "Dalamud MCP Manager",
   "InternalName": "DalamudMCPManager",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "Automated host for the Python MCP Server via SSE.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 12,
