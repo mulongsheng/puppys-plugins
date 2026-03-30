@@ -1,0 +1,15 @@
+{
+  "Author": "Antigravity",
+  "Name": "Dalamud MCP Manager",
+  "InternalName": "DalamudMCPManager",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Automated host for the Python MCP Server via SSE.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "MCP Server Host",
+  "AcceptsFeedback": true
+}
