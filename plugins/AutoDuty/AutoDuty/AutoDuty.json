@@ -2,7 +2,7 @@
   "Author": "Herculezz, erdelf",
   "Name": "AutoDuty",
   "InternalName": "AutoDuty",
-  "AssemblyVersion": "0.0.0.304",
+  "AssemblyVersion": "0.0.0.305",
   "Description": "自动运行副本的插件，支持信任、副本支援、小队、多变术副本和普通副本。需要 BossMod、vnavmesh 和一个自动技能插件（Wrath Combo、BossMod AutoRotation 或 RotationSolverReborn）",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/erdelf/AutoDuty",
