@@ -3,7 +3,7 @@
   "Name": "Bossmod Reborn",
   "InternalName": "BossModReborn",
   "AssemblyVersion": "0.0.0.9",
-  "Description": "简化 Boss 战的综合工具集。",
+  "Description": "Boss encounter helper that keeps the BossMod IPC contract for linked plugins.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
   "DalamudApiLevel": 12,
@@ -17,6 +17,6 @@
     "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
-  "Punchline": "不再搞砸团队机制",
+  "Punchline": "Combat helper and AI presets.",
   "AcceptsFeedback": true
 }

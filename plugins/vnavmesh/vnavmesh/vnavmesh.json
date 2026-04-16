@@ -3,7 +3,7 @@
   "Name": "vnavmesh",
   "InternalName": "vnavmesh",
   "AssemblyVersion": "0.0.0.9",
-  "Description": "自动导航移动工具，智能地带领角色在世界中穿行，巧妙地避开所有障碍物。",
+  "Description": "Navigation and pathfinding helper used by Taiwan quest and duty automation flows.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
   "DalamudApiLevel": 12,
@@ -12,6 +12,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_navmesh/8dab2e675e51a03b1827d94e77616a8144892a72/icon2.png",
-  "Punchline": "自动导航移动！",
+  "Punchline": "Navigation and movement helper.",
   "AcceptsFeedback": true
 }

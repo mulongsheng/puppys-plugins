@@ -3,7 +3,7 @@
   "Name": "AutoDuty",
   "InternalName": "AutoDuty",
   "AssemblyVersion": "0.0.0.307",
-  "Description": "自动运行副本的插件，支持信任、副本支援、小队、多变术副本和普通副本。需要 BossMod、vnavmesh 和一个自动技能插件（Wrath Combo、BossMod AutoRotation 或 RotationSolverReborn）",
+  "Description": "Duty automation plugin with non-blocking BossMod, vnavmesh, and optional rotation integrations.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/erdelf/AutoDuty",
   "DalamudApiLevel": 12,
@@ -19,6 +19,6 @@
     "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
   ],
   "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
-  "Punchline": "自动副本",
+  "Punchline": "Automates supported duty runs.",
   "AcceptsFeedback": true
 }

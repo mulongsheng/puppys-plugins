@@ -3,7 +3,7 @@
   "Name": "TextAdvance",
   "InternalName": "TextAdvance",
   "AssemblyVersion": "3.2.4.12",
-  "Description": "任务速通辅助工具。自动跳过对话框并确认跳过动画。",
+  "Description": "Dialogue and cutscene advance helper with external control IPC for automation plugins.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
   "DalamudApiLevel": 12,
@@ -12,6 +12,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/master/TextAdvance/images/icon.png",
-  "Punchline": "任务速通辅助工具。自动跳过对话框并确认跳过动画",
+  "Punchline": "Auto-advances supported dialogue.",
   "AcceptsFeedback": true
 }
