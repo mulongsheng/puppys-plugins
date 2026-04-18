@@ -6,7 +6,7 @@
     "AssemblyVersion": "0.0.0.9",
     "Description": "Navigation and pathfinding helper used by Taiwan quest and duty automation flows.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+    "RepoUrl": "https://github.com/mulongsheng/puppys-plugins",
     "DalamudApiLevel": 12,
     "LoadRequiredState": 0,
     "LoadSync": false,
@@ -15,9 +15,9 @@
     "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_navmesh/8dab2e675e51a03b1827d94e77616a8144892a72/icon2.png",
     "Punchline": "Navigation and movement helper.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/vnavmesh/vnavmesh/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/vnavmesh/vnavmesh/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/vnavmesh/vnavmesh/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/vnavmesh/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/vnavmesh/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/vnavmesh/latest.zip"
   },
   {
     "Author": "The Combat Reborn Team",
@@ -26,7 +26,7 @@
     "AssemblyVersion": "0.0.0.9",
     "Description": "Boss encounter helper that keeps the BossMod IPC contract for linked plugins.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+    "RepoUrl": "https://github.com/mulongsheng/puppys-plugins",
     "DalamudApiLevel": 12,
     "LoadRequiredState": 0,
     "LoadSync": false,
@@ -40,9 +40,9 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Combat helper and AI presets.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/bossmod/BossModReborn/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/bossmod/BossModReborn/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/bossmod/BossModReborn/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/BossModReborn/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/BossModReborn/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/BossModReborn/latest.zip"
   },
   {
     "Author": "NightmareXIV",
@@ -51,7 +51,7 @@
     "AssemblyVersion": "3.2.4.12",
     "Description": "Dialogue and cutscene advance helper with external control IPC for automation plugins.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+    "RepoUrl": "https://github.com/mulongsheng/puppys-plugins",
     "DalamudApiLevel": 12,
     "LoadRequiredState": 0,
     "LoadSync": false,
@@ -60,9 +60,9 @@
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/master/TextAdvance/images/icon.png",
     "Punchline": "Auto-advances supported dialogue.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/TextAdvance/TextAdvance/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/TextAdvance/TextAdvance/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/TextAdvance/TextAdvance/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/TextAdvance/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/TextAdvance/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/TextAdvance/latest.zip"
   },
   {
     "Author": "NightmareXIV",
@@ -71,7 +71,7 @@
     "AssemblyVersion": "2.5.3.26",
     "Description": "Travel helper with Taiwan-compatible aethernet and world-change fallbacks.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+    "RepoUrl": "https://github.com/mulongsheng/puppys-plugins",
     "DalamudApiLevel": 12,
     "LoadRequiredState": 0,
     "LoadSync": false,
@@ -80,9 +80,9 @@
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
     "Punchline": "Accelerates aethernet and world travel.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Lifestream/Lifestream/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Lifestream/Lifestream/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Lifestream/Lifestream/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Lifestream/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Lifestream/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Lifestream/latest.zip"
   },
   {
     "Author": "Liza Carvelli",
@@ -91,7 +91,7 @@
     "AssemblyVersion": "5.31",
     "Description": "Quest automation helper that coordinates vnavmesh, TextAdvance, Lifestream, BossMod, and AutoDuty.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+    "RepoUrl": "https://github.com/mulongsheng/puppys-plugins",
     "Tags": [
       "quests",
       "msq"
@@ -104,9 +104,9 @@
     "IconUrl": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/icons/Questionable.png",
     "Punchline": "Automated quest helper.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Questionable/Questionable/Questionable-5.23.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Questionable/Questionable/Questionable-5.23.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Questionable/Questionable/Questionable-5.23.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Questionable/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Questionable/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Questionable/latest.zip"
   },
   {
     "Author": "Herculezz, erdelf",
@@ -115,7 +115,7 @@
     "AssemblyVersion": "0.0.0.307",
     "Description": "Duty automation plugin with non-blocking BossMod, vnavmesh, and optional rotation integrations.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+    "RepoUrl": "https://github.com/mulongsheng/puppys-plugins",
     "DalamudApiLevel": 12,
     "LoadRequiredState": 0,
     "LoadSync": false,
@@ -131,9 +131,9 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "Punchline": "Automates supported duty runs.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/AutoDuty/AutoDuty/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/AutoDuty/AutoDuty/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/AutoDuty/AutoDuty/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/AutoDuty/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/AutoDuty/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/AutoDuty/latest.zip"
   },
   {
     "Author": "NightmareXIV",
@@ -142,7 +142,7 @@
     "AssemblyVersion": "3.7.0.12",
     "Description": "Independent overlay and marker utility kept outside the Taiwan linkage matrix.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+    "RepoUrl": "https://github.com/mulongsheng/puppys-plugins",
     "Tags": [
       "Utility",
       "Accessibility"
@@ -155,8 +155,8 @@
     "IconUrl": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/icons/Splatoon.png",
     "Punchline": "Marker and overlay utility.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Splatoon/Splatoon/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Splatoon/Splatoon/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Splatoon/Splatoon/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Splatoon/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Splatoon/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/plugins/Splatoon/latest.zip"
   }
 ]
